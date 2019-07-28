@@ -11,3 +11,6 @@ Projects so far:
 
 You can find in
  * ![LinkedIn](/assets/minima-social-icons.svg#linkedin) https://www.linkedin.com/in/liliananuno/
+ * <svg>
+  <use xlink:href="/assets/minima-social-icons.svg#linkedin"></use>
+</svg> https://www.linkedin.com/in/liliananuno/
